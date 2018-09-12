@@ -1,0 +1,10 @@
+{
+    "name": "smash-mandrill-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "mandrill.js",
+    "author": "",
+    "license": "Apache v2.0",
+    "dependencies": {},
+    "devDependencies": {}
+}
